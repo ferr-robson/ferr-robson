@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Robson Ferreira!</h1>
 <h3 align="center">Currently, I am studying for a Bachelor's degree in Information Systems.</h3>
-<img align="right" alt"cinnamon_roll-33881057 at pixabay" width="400" src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif">
+<!--<img align="right" alt"cinnamon_roll-33881057 at pixabay" width="400" src="https://cdn.pixabay.com/animation/2023/03/31/01/32/01-32-38-664_512.gif">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferr-robson&label=Profile%20views&color=0e75b6&style=flat" alt="ferr-robson" /> </p>
 
